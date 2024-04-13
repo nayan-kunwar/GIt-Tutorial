@@ -1,2 +1,4 @@
 Some text.
 Line 2
+Some text.
+Line 2
